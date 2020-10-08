@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziYorumProje", "DiziYorumProje\DiziYorumProje.csproj", "{9DAA28E9-ACBF-46B9-A73A-C09FADC3A406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAA28E9-ACBF-46B9-A73A-C09FADC3A406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAA28E9-ACBF-46B9-A73A-C09FADC3A406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAA28E9-ACBF-46B9-A73A-C09FADC3A406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAA28E9-ACBF-46B9-A73A-C09FADC3A406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49099693-E28E-4763-B694-6350E1F29476}
+	EndGlobalSection
+EndGlobal
